@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Read Write</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="sign_up_form">Sign Up Form</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="states">States</string>
+    <string name="cities">Cities</string>
+
+    <string name="enter_your_password">enter your password</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_city">enter your city</string>
+
+    <string name="button">Button</string>
+    <string name="textView">textView</string>
+
+    <string name="submit">Submit</string>
+    <string name="data">Data</string>
+</resources>
